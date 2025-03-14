@@ -111,6 +111,7 @@ button:hover {
   border-radius: 10px;
 }
 
+/* responsive design */
 @media (max-width: 900px) {
   .container {
       flex-direction: column;
